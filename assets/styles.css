@@ -50,6 +50,11 @@ table, th, td {
     border-collapse: collapse;
   }
 
+table img {
+    width: 96px;
+    image-rendering: pixelated;
+}
+
 .nav {
     text-align: center;
     background-color: var(--main);
